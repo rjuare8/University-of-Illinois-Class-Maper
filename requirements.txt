@@ -1,0 +1,9 @@
+beautifulsoup4==4.11.1
+dash==2.10.2
+dash_bootstrap_components==1.4.1
+googlemaps==4.10.0
+pandas==1.5.3
+plotly==5.9.0
+pymongo==4.6.1
+python-dotenv==1.0.0
+Requests==2.31.0
