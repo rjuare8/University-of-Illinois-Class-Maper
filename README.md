@@ -19,8 +19,6 @@ For more details, view the full project proposal [here](https://docs.google.com/
 
 # Contributors
 - **Alejandro Chavez:** Worked on acquiring/handling course data and web scraping
-- **Anvitha Manepalli:** Worked on CSS styling and front-end design
-- **Ayushi Maskey:** Worked on CSS styling and front-end design
 - **Rudy Juarez:** Worked on the back-end scheduling/map implementation
 
 # Installation Instructions
